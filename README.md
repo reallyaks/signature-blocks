@@ -2,7 +2,7 @@
 
 Reads `By` / `Name` / `Title` stacks and lists them.
 
-Not legal advice. It does not check a signature image, a DocuSign envelope, or whether the person had authority.
+It does not look at a signature image or an electronic-signature certificate, and it does not check authority.
 
 ## Run
 
